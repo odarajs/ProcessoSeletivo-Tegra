@@ -1,0 +1,30 @@
+body{
+    background:  url(./img/sl_043021_42650_01.jpg) no-repeat center top fixed;
+    
+}
+.botoes,.botoes-2,.botoes-3,.botoes-4,.botoes-5,.botoes-6,.botoes-7,.botoes-8{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    justify-content: center;
+    
+}
+
+button{
+    
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 50px;
+    width: 282px;
+    height: 80px;
+    border: 5px solid white;
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+}
