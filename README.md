@@ -1,5 +1,7 @@
 # ProcessoSeletivo-Tegra
-
+<p aling="center">
+<img width="470" src="index/img/SobreProjeto.gif">
+</p>
 # Sobre o projeto
 
 https://odarajs.github.io/ProcessoSeletivo-Tegra/index/
