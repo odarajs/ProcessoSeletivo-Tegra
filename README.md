@@ -2,6 +2,7 @@
 <p aling="center">
  <img src="index/img/ezgif.com-gif-maker.webp">
 </p>
+<hr>
 # Sobre o projeto
 
 https://odarajs.github.io/ProcessoSeletivo-Tegra/index/
