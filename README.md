@@ -1,8 +1,8 @@
-<h1>ProcessoSeletivo-Tegra</h1>
+<h1 aling="center">ProcessoSeletivo-Tegra</h1>
 <p aling="center">
  <img src="index/img/ezgif.com-gif-maker.webp">
 </p>
-<h2>Sobre o projeto</h2>
+<h2 aling="center">Sobre o projeto</h2>
 https://odarajs.github.io/ProcessoSeletivo-Tegra/index/
 
 Projeto esta sendo realizado para um processo seletivo:  
