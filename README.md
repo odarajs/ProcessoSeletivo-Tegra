@@ -1,4 +1,6 @@
+<center>
 <h1 aling="center">ProcessoSeletivo-Tegra</h1>
+ </center>
 <p aling="center">
  <img src="index/img/ezgif.com-gif-maker.webp">
 </p>
