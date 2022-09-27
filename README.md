@@ -1,6 +1,7 @@
 # ProcessoSeletivo-Tegra
 <p aling="center">
 <img src="index/img/SobreProjeto.gif">
+ <img src="index/img/ezgif.com-gif-maker.webp">
 </p>
 # Sobre o projeto
 
