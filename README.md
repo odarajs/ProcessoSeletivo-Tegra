@@ -1,6 +1,6 @@
 # ProcessoSeletivo-Tegra
 <p aling="center">
-<img width="470" src="index/img/SobreProjeto.gif">
+<img src="index/img/SobreProjeto.gif">
 </p>
 # Sobre o projeto
 
